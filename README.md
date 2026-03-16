@@ -25,20 +25,16 @@ Abra o navegador em `http://localhost:3000`
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `/filmes` | Lista todos os alunos |
-| GET | `/filmes/:id` | Buscar um aluno específico |
-| POST | `/filmes` | Cria um novo aluno |
-| PUT | `/filmes/:id` | Atualiza um aluno |
-| DELETE | `/filmes/:id` | Deleta um aluno |
+| GET | `/filmes` | Lista todos os filmes |
+| GET | `/filmes/:id` | Buscar um filmes específico |
+| POST | `/filmes` | Cria um novo filmes |
 
 ### Professores
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
-| GET | `/series` | Lista todos os professores |
-| POST | `/series` | Cria um novo professor |
-| PUT | `/series/:id` | Atualiza um professor |
-| DELETE | `/series/:id` | Deleta um professor |
+| GET | `/series` | Lista todos as séries |
+| POST | `/series` | Cria uma nova série |
 
 ## Tecnologias
 - Node.js
